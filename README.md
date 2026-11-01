@@ -1,2 +1,13 @@
 # python-practicecode
-This all code of my python learning from start to end.
+Python Learning
+
+This repository contains my Python learning journey.
+
+Topics Covered:
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Lists, Tuples, Sets and Dictionaries
+- Functions
+- Modules
+- Object-Oriented Programming (OOP)
